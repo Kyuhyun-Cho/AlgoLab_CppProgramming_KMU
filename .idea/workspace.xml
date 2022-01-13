@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C___algolab" targetName="C___algolab" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1026584d-db49-4e59-ad68-485ca32c1acf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Zbf2d9bwxJ5dwe6cOrMYnxDOn6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C___algolab" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="pqr" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C___algolab" TARGET_NAME="C___algolab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C___algolab" RUN_TARGET_NAME="C___algolab">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1026584d-db49-4e59-ad68-485ca32c1acf" name="Default Changelist" comment="" />
+      <created>1585112507250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585112507250</updated>
+      <workItem from="1585112510014" duration="756000" />
+      <workItem from="1585115479605" duration="679000" />
+      <workItem from="1585209700483" duration="3193000" />
+      <workItem from="1585578004042" duration="3827000" />
+      <workItem from="1585581881571" duration="675000" />
+      <workItem from="1585636185646" duration="4333000" />
+      <workItem from="1585716024959" duration="1488000" />
+      <workItem from="1585749687937" duration="21000" />
+      <workItem from="1585798132334" duration="1594000" />
+      <workItem from="1585800239315" duration="76000" />
+      <workItem from="1586003182873" duration="809000" />
+      <workItem from="1586004565357" duration="66000" />
+      <workItem from="1586004652771" duration="102000" />
+      <workItem from="1586159757151" duration="7000" />
+      <workItem from="1586320778621" duration="2529000" />
+      <workItem from="1586360082492" duration="7459000" />
+      <workItem from="1586369466698" duration="413000" />
+      <workItem from="1586411792162" duration="15000" />
+      <workItem from="1586453669897" duration="1050000" />
+      <workItem from="1586533947682" duration="225000" />
+      <workItem from="1586534497423" duration="22000" />
+      <workItem from="1586615655762" duration="437000" />
+      <workItem from="1586737868470" duration="9000" />
+      <workItem from="1586930199906" duration="2724000" />
+      <workItem from="1586933154458" duration="1124000" />
+      <workItem from="1586934432059" duration="16000" />
+      <workItem from="1586949488445" duration="21000" />
+      <workItem from="1587127545012" duration="23000" />
+      <workItem from="1587127873809" duration="1259000" />
+      <workItem from="1587129152973" duration="78000" />
+      <workItem from="1587129331187" duration="26000" />
+      <workItem from="1587306065936" duration="3061000" />
+      <workItem from="1587310544842" duration="219000" />
+      <workItem from="1587715283203" duration="1643000" />
+      <workItem from="1587817267064" duration="2278000" />
+      <workItem from="1587826482937" duration="1588000" />
+      <workItem from="1588040736193" duration="8000" />
+      <workItem from="1588138366425" duration="1736000" />
+      <workItem from="1588247508512" duration="4523000" />
+      <workItem from="1588277524088" duration="4162000" />
+      <workItem from="1588281925786" duration="2466000" />
+      <workItem from="1588550848296" duration="6000" />
+      <workItem from="1589173819910" duration="879000" />
+      <workItem from="1589559598266" duration="399000" />
+      <workItem from="1589561416640" duration="21000" />
+      <workItem from="1589775381641" duration="2339000" />
+      <workItem from="1589777764492" duration="107000" />
+      <workItem from="1589777888487" duration="1136000" />
+      <workItem from="1589900089417" duration="523000" />
+      <workItem from="1589901143350" duration="17000" />
+      <workItem from="1590067658950" duration="28000" />
+      <workItem from="1590067856674" duration="23000" />
+      <workItem from="1590381764993" duration="821000" />
+      <workItem from="1590481937982" duration="349000" />
+      <workItem from="1590675852128" duration="70000" />
+      <workItem from="1590860959339" duration="13000" />
+      <workItem from="1591271215421" duration="802000" />
+      <workItem from="1591518674729" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589777623968">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1589777623968" />
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1587308071606" />
+    <state x="622" y="258" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588247535799">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="467" y="231" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1587129351948" />
+    <state x="622" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586930255530" />
+    <state x="622" y="258" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588247535799" />
+    <state x="723" y="123" width="921" height="791" key="DiffContextDialog" timestamp="1585716914482">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="723" y="123" width="921" height="791" key="DiffContextDialog/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1585716914482" />
+    <state width="801" height="2" key="GridCell.Tab.0.bottom" timestamp="1591272036870">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="210" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1585116182411" />
+    <state width="678" height="210" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585800221280" />
+    <state width="801" height="2" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591272036870" />
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369879749" />
+    <state width="918" height="57" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590482287206" />
+    <state width="918" height="221" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588265037532" />
+    <state width="801" height="2" key="GridCell.Tab.0.center" timestamp="1591272036869">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="210" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1585116182410" />
+    <state width="678" height="210" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1585800221279" />
+    <state width="801" height="2" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591272036869" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369879746" />
+    <state width="918" height="57" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590482287205" />
+    <state width="918" height="221" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588265037531" />
+    <state width="801" height="2" key="GridCell.Tab.0.left" timestamp="1591272036869">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="210" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1585116182410" />
+    <state width="678" height="210" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1585800221279" />
+    <state width="801" height="2" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591272036869" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369879745" />
+    <state width="918" height="57" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590482287205" />
+    <state width="918" height="221" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588265037531" />
+    <state width="801" height="2" key="GridCell.Tab.0.right" timestamp="1591272036870">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="210" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1585116182411" />
+    <state width="678" height="210" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1585800221279" />
+    <state width="801" height="2" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591272036870" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369879747" />
+    <state width="918" height="57" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590482287206" />
+    <state width="918" height="221" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588265037531" />
+    <state width="918" height="357" key="GridCell.Tab.1.bottom" timestamp="1586933139022">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369448199" />
+    <state width="918" height="357" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586933139022" />
+    <state width="918" height="357" key="GridCell.Tab.1.center" timestamp="1586933139021">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369448198" />
+    <state width="918" height="357" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586933139021" />
+    <state width="918" height="357" key="GridCell.Tab.1.left" timestamp="1586933139021">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369448197" />
+    <state width="918" height="357" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586933139021" />
+    <state width="918" height="357" key="GridCell.Tab.1.right" timestamp="1586933139021">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586369448198" />
+    <state width="918" height="357" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586933139021" />
+    <state x="467" y="166" key="SettingsEditor" timestamp="1587827720137">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="467" y="166" key="SettingsEditor/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1587827720137" />
+    <state x="467" y="157" key="SettingsEditor/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1587309218277" />
+    <state x="677" y="139" width="837" height="825" key="find.popup" timestamp="1585581842134">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="677" y="139" width="837" height="825" key="find.popup/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1585581842134" />
+    <state x="1105" y="258" key="search.everywhere.popup" timestamp="1587716461949">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1105" y="258" key="search.everywhere.popup/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1587716461949" />
+  </component>
+</project>
